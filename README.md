@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagor-075&label=Profile%20views&color=0e75b6&style=flat" alt="shagor-075" /> </p>
 
+-  🔭 I’m currently learning Full Stack MERN
+  
 - 👨‍💻 All of my projects are available at [https://sr-personal-website.netlify.app/](https://sr-personal-website.netlify.app/)
 
 - 💬 Ask me about **React and Next Js**

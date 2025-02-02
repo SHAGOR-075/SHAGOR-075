@@ -1,3 +1,4 @@
+![logo](https://github.com/Shagor420/Shagor420/blob/main/Github%20BG.png)
 <h1 align="center">Hi 👋, I'm Md Kharul Islam Shagor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 

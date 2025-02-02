@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagor420&show_icons=true&locale=en" alt="shagor420" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagor420&" alt="shagor420" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAGOR-075&" alt="SHAGOR-075" /></p>
 
 <!--
 **Shagor420/Shagor420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
